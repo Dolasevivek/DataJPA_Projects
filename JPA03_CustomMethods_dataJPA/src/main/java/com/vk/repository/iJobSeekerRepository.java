@@ -18,5 +18,6 @@ public interface iJobSeekerRepository extends JpaRepository<JobSeeker, Integer> 
     public List<JobSeeker>findBynameEndingWith(String lastChars);
     public List<JobSeeker>findBynameContaining(String Chars);
     
+    
 
 }

@@ -25,7 +25,7 @@ public class JobSeeker_TestRunner implements CommandLineRunner {
 		
 //....................... Fetching  Single Record by Address ...........................................	     
 	
-	   /*  try {
+	    /* try {
 	    	
 	    	// jsRepo.findByAddressEquals("hyd").forEach(System.out::println);
 	    	 
